@@ -1,8 +1,13 @@
-### Hi there 👋
+# Hi there 👋, I'm Roza
 
-I'm Roza from Poland. After 7 years in finance, I've decided to dive into the world of data analysis. I'm super excited about this new journey and can't wait to see where it takes me!
+After 7 years in finance, I've decided to dive into the world of data analysis. I'm super excited about this new journey and can't wait to see where it takes me!
 
-Skills: SQL / PYTHON / TABLEAU / GOOGLE SHEETS
+## Skills
+
++ SQL
++ PYTHON
++ TABLEAU
++ GOOGLE SHEETS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data analysis 
